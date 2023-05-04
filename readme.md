@@ -19,4 +19,4 @@
 
 **Time took to complete this project**: 2 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://word-count-program.netlify.app/) of the project
