@@ -1,0 +1,28 @@
+body {
+  padding: 100px 100px;
+}
+
+h1 {
+  text-align: center;
+  background-color: burlywood;
+  color: #fff;
+  padding: 10px;
+  margin: 0px;
+}
+
+#textbox {
+  width: 98.6%;
+  border-color: burlywood;
+  font-size: 15px;
+  resize: none;
+}
+
+p {
+  text-align: center;
+  background-color: cadetblue;
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+  padding: 10px;
+  margin: 0;
+}
